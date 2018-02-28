@@ -1,4 +1,3 @@
-# PopvieApp
 <h1>Popvie - All about movie</h1>
 
 <h2 id="project-overview">Project Overview</h2>
