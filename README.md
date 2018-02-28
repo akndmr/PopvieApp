@@ -47,7 +47,7 @@
 </ul>
 <p>&nbsp;</p>
 <h2>How to use code ?</h2>
-<p>Change API_KEY in inside gradle.properties to be able to connect and fetch data.</p>
+<p>Change API_KEY inside gradle.properties to be able to connect and fetch data.</p>
 <blockquote>
 <p><em>#API KEY for TMDB access TheMovieDBApiKey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"</em></p>
 </blockquote>
