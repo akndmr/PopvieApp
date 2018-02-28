@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuItemAddInFavList"
+        android:title="@string/add_to_favourites"
+        app:iconTint="@color/colorPrimaryDark"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/menuItemAddInWatchList"
+        android:title="@string/add_to_watchlist"
+        app:iconTint="@color/colorPrimaryDark"
+        app:showAsAction="withText" />
+</menu>

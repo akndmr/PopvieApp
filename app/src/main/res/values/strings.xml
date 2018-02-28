@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Popvie</string>
+    <string name="cd_poster_overlay">Half transparent overlay on movie poster</string>
+    <string name="cd_popularity_icon">Popularity icon</string>
+    <string name="cd_rating_icon">Rating icon</string>
+
+
+    <!-- Dialog Messages -->
+    <string name="dialog_no_internet_connection">Ohh, no internet! :( \n Please check your connection! \n Tap on me to re-try..</string>
+    <string name="dialog_succesful_api_response">Pop!.. pop!.. Popvie!</string>
+    <string name="dialog_succesful_login">Popvie, welcomes you! :)</string>
+
+    <!-- Temps for placeholder. Will be deleted -->
+
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="cd_runtime_icon">Runtime icon</string>
+
+    <string name="menu_item_now_playing_movies">Now playing movies</string>
+    <string name="menu_item_popular_movies">Popular Movies</string>
+    <string name="menu_item_top_rated_movies">Top rated movies</string>
+    <string name="menu_item_upcoming_movies">Upcoming movies</string>
+    <string name="stay_capital">STAY</string>
+    <string name="exit_capital">EXIT</string>
+    <string name="selected_movie_poster">Selected movie poster</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+    <string name="popularity">Popularity</string>
+    <string name="release_date">Release Date</string>
+    <string name="official_site">Official Site</string>
+    <string name="budget">Budget</string>
+    <string name="revenue">Revenue</string>
+    <string name="countries">Countries</string>
+    <string name="languages">Languages</string>
+    <string name="companies">Companies</string>
+    <string name="popvie_logo">Popvie Logo</string>
+    <string name="popvie_character">Popvie character</string>
+    <string name="close_x_icon">Close(x) icon</string>
+    <string name="clock_icon">Clock icon</string>
+    <string name="up_arrow_icon">Up arrow icon</string>
+    <string name="down_arrow_icon">Down arrow icon</string>
+    <string name="poster_shadow">Poster shadow</string>
+    <string name="votes">Votes</string>
+
+
+</resources>

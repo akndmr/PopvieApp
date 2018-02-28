@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuItemSortByNowPlaying"
+        android:icon="@drawable/ic_now_playing"
+        android:title="@string/menu_item_now_playing_movies"
+        app:iconTint="@color/colorPrimaryDark"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/menuItemSortByPopularity"
+        android:icon="@drawable/ic_popularity_white"
+        android:title="@string/menu_item_popular_movies"
+        app:iconTint="@color/colorPrimaryDark"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/menuItemSortByRating"
+        android:icon="@drawable/ic_rating_white"
+        android:title="@string/menu_item_top_rated_movies"
+        app:iconTint="@color/colorPrimaryDark"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/menuItemSortByUpcoming"
+        android:icon="@drawable/ic_upcoming"
+        android:title="@string/menu_item_upcoming_movies"
+        app:iconTint="@color/colorPrimaryDark"
+        app:showAsAction="withText" />
+</menu>
