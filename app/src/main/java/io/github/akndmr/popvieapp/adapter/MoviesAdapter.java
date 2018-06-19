@@ -47,7 +47,11 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MovieViewH
 
         holder.movieRating.setText(String.valueOf(movie.getVoteAverage()));
         String posterPath = posterPathBuilder(movie.getPosterPath());
-        Picasso.with(mContext).load(posterPath).placeholder(R.drawable.poster_placeholder).into(holder.moviePoster);
+        Picasso.with(mContext)
+                .load(posterPath)
+                .placeholder(R.drawable.poster_placeholder)
+                .error(R.drawable.poster_placeholder)
+                .into(holder.moviePoster);
 
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
